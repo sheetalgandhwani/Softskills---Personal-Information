@@ -1,0 +1,33 @@
+                                           MODULE-1 :Personal Information
+                                          ----------------------------------
+
+
+Q.1  Briefly introduce yourself name, educational background ,and current status (student or professional).
+
+
+   --> 
+      My name is Sheetal Prajapati and I have done my schooling from  Excellence Higher Secondary School     Nisarpur(M.P.). I have done my bachelor degree in B.Sc. (Computer Science) from DAVV University Indore(M.P.). And recently i am learning PHP language(Backend technology) to become a 
+ Laravel Developer from Tops Technologies Institute Vadodara.
+
+
+
+
+Q.2  Mention key personality traits ,such as your creativity, analytical skills, or passion for problem 
+      solving.              
+  
+  -->  Problem-solving skills help us to determine the source of a problem and find an effective solution.     
+      Although problem-solving is often identified as its own separate skill, there are other related skills                    
+      that contribute to this ability
+         some key problem-solving skills include:
+
+          -Active listening
+          -Analysis
+          -Research
+          -Creativity
+          -Communication
+          -Dependability 
+
+
+
+
+    
